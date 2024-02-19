@@ -24,7 +24,7 @@
   <p align="center">
     A todo app that was built with guidance of <a href="https://www.udemy.com/user/dastagirahmed/">Dastagir Ahmed</a> !
     <br />
-    a href="https://github.com/ThisIsRipunjay/todo_appe"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ThisIsRipunjay/todo_appe"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://drive.google.com/file/d/1zH-QrjO5h0YMeGj6ya8bqVUnwGdPT9od/view?usp=sharing">View Demo</a>
     ·
